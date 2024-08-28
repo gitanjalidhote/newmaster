@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "1+DnsNOAIE21ZTotvxu64JFOQKvNRvpX3yY7Ym6jaK8=",
+  "Source": "E-Learning.Server",
+  "BasePath": "_content/E-Learning.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\e-learning.client.esproj",
+      "Version": 2,
+      "Source": "e-learning.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
