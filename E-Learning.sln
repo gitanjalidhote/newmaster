@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Learning.Server", "E-Learning.Server\E-Learning.Server.csproj", "{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "e-learning.client", "e-learning.client\e-learning.client.esproj", "{53A9F33E-A84D-420C-A6CA-8A5C6096161C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A9F33E-A84D-420C-A6CA-8A5C6096161C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A9F33E-A84D-420C-A6CA-8A5C6096161C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A9F33E-A84D-420C-A6CA-8A5C6096161C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{53A9F33E-A84D-420C-A6CA-8A5C6096161C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A9F33E-A84D-420C-A6CA-8A5C6096161C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A9F33E-A84D-420C-A6CA-8A5C6096161C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C11367B-F47F-4950-AC43-0C361755B8CA}
+	EndGlobalSection
+EndGlobal

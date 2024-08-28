@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(135deg, #6e8efb, #a777e3);
+  font-family: 'Arial', sans-serif;
+}
+
+.card {
+  border-radius: 15px;
+  max-width: 400px;
+  width: 100%;
+  background: #fff;
+}
+
+.btn-primary {
+  background-color: #5770b3;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #5a7ad4;
+}
+
+.form-label {
+  color: #555;
+}
+
+::placeholder {
+  color: #888;
+  opacity: 1; /* Firefox */
+}

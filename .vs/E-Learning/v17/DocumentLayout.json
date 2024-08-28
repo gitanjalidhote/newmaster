@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\E-Learning-Quiz-System\\E-Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}|E-Learning.Server\\E-Learning.Server.csproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.server\\controllers\\homecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}|E-Learning.Server\\E-Learning.Server.csproj|solutionrelative:e-learning.server\\controllers\\homecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}|E-Learning.Server\\E-Learning.Server.csproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.server\\controllers\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}|E-Learning.Server\\E-Learning.Server.csproj|solutionrelative:e-learning.server\\controllers\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}|E-Learning.Server\\E-Learning.Server.csproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}|E-Learning.Server\\E-Learning.Server.csproj|solutionrelative:e-learning.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.client\\src\\componets\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|solutionrelative:e-learning.client\\src\\componets\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}|E-Learning.Server\\E-Learning.Server.csproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.server\\controllers\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}|E-Learning.Server\\E-Learning.Server.csproj|solutionrelative:e-learning.server\\controllers\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.client\\src\\componets\\registrationform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|solutionrelative:e-learning.client\\src\\componets\\registrationform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\componets\\registration.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-learning.client\\src\\componets\\registration.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.client\\src\\componets\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|solutionrelative:e-learning.client\\src\\componets\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|solutionrelative:e-learning.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|solutionrelative:e-learning.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|solutionrelative:e-learning.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53A9F33E-A84D-420C-A6CA-8A5C6096161C}|e-learning.client\\e-learning.client.esproj|solutionrelative:e-learning.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}|E-Learning.Server\\E-Learning.Server.csproj|c:\\e-learning-quiz-system\\e-learning\\e-learning.server\\models\\elearningcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E52551F-38E9-4BF8-899B-6D4F0ED4EE15}|E-Learning.Server\\E-Learning.Server.csproj|solutionrelative:e-learning.server\\models\\elearningcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ElearningContext.cs",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\E-Learning.Server\\Models\\ElearningContext.cs",
+              "RelativeDocumentMoniker": "E-Learning.Server\\Models\\ElearningContext.cs",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\E-Learning.Server\\Models\\ElearningContext.cs",
+              "RelativeToolTip": "E-Learning.Server\\Models\\ElearningContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA7wBsAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:31:45.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\E-Learning.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Learning.Server\\appsettings.json",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\E-Learning.Server\\appsettings.json",
+              "RelativeToolTip": "E-Learning.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T10:44:00.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin.cs",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\E-Learning.Server\\Controllers\\admin.cs",
+              "RelativeDocumentMoniker": "E-Learning.Server\\Controllers\\admin.cs",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\E-Learning.Server\\Controllers\\admin.cs",
+              "RelativeToolTip": "E-Learning.Server\\Controllers\\admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:30:25.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homecontroler.cs",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\E-Learning.Server\\Controllers\\Homecontroler.cs",
+              "RelativeDocumentMoniker": "E-Learning.Server\\Controllers\\Homecontroler.cs",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\E-Learning.Server\\Controllers\\Homecontroler.cs",
+              "RelativeToolTip": "E-Learning.Server\\Controllers\\Homecontroler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:23:34.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\componets\\Login.jsx",
+              "RelativeDocumentMoniker": "e-learning.client\\src\\componets\\Login.jsx",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\componets\\Login.jsx",
+              "RelativeToolTip": "e-learning.client\\src\\componets\\Login.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-28T04:42:43.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationForm.jsx",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\componets\\RegistrationForm.jsx",
+              "RelativeDocumentMoniker": "e-learning.client\\src\\componets\\RegistrationForm.jsx",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\componets\\RegistrationForm.jsx",
+              "RelativeToolTip": "e-learning.client\\src\\componets\\RegistrationForm.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-27T10:27:51.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "e-learning.client\\src\\main.jsx",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\main.jsx",
+              "RelativeToolTip": "e-learning.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-26T06:53:43.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "e-learning.client\\src\\App.jsx",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\App.jsx",
+              "RelativeToolTip": "e-learning.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-26T06:52:09.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\index.css",
+              "RelativeDocumentMoniker": "e-learning.client\\src\\index.css",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\index.css",
+              "RelativeToolTip": "e-learning.client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-26T06:50:06.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "registration.cs",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\E-Learning.Server\\Controllers\\registration.cs",
+              "RelativeDocumentMoniker": "E-Learning.Server\\Controllers\\registration.cs",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\E-Learning.Server\\Controllers\\registration.cs",
+              "RelativeToolTip": "E-Learning.Server\\Controllers\\registration.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIBWwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:42:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "registration.jsx",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\componets\\registration.jsx",
+              "RelativeDocumentMoniker": "e-learning.client\\src\\componets\\registration.jsx",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\componets\\registration.jsx",
+              "RelativeToolTip": "e-learning.client\\src\\componets\\registration.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-26T06:37:08.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Homepage.jsx",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\componets\\Homepage.jsx",
+              "RelativeDocumentMoniker": "e-learning.client\\src\\componets\\Homepage.jsx",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\src\\componets\\Homepage.jsx",
+              "RelativeToolTip": "e-learning.client\\src\\componets\\Homepage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-26T05:53:09.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\index.html",
+              "RelativeDocumentMoniker": "e-learning.client\\index.html",
+              "ToolTip": "C:\\E-Learning-Quiz-System\\E-Learning\\e-learning.client\\index.html",
+              "RelativeToolTip": "e-learning.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-26T04:30:09.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
