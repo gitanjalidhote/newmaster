@@ -11,5 +11,5 @@ public partial class Student
 
     public string StdPass { get; set; } = null!;
 
-    public virtual ICollection<SetExam> SetExams { get; set; } = new List<SetExam>();
+    //public virtual ICollection<SetExam> SetExams { get; set; } = new List<SetExam>();
 }

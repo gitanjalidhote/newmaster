@@ -8,7 +8,9 @@ C:\E-Learning-Quiz-System\E-Learning\E-Learning.Server\bin\Debug\net8.0\E-Learni
 C:\E-Learning-Quiz-System\E-Learning\E-Learning.Server\bin\Debug\net8.0\E-Learning.Server.pdb
 C:\E-Learning-Quiz-System\E-Learning\E-Learning.Server\bin\Debug\net8.0\Azure.Core.dll
 C:\E-Learning-Quiz-System\E-Learning\E-Learning.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\E-Learning-Quiz-System\E-Learning\E-Learning.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\E-Learning-Quiz-System\E-Learning\E-Learning.Server\bin\Debug\net8.0\Humanizer.dll
+C:\E-Learning-Quiz-System\E-Learning\E-Learning.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\E-Learning-Quiz-System\E-Learning\E-Learning.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
 C:\E-Learning-Quiz-System\E-Learning\E-Learning.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\E-Learning-Quiz-System\E-Learning\E-Learning.Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll

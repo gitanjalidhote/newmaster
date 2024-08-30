@@ -19,6 +19,9 @@ const Homepage = () => {
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
+
+
+              
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                   <li class="nav-item">
@@ -60,6 +63,8 @@ const Homepage = () => {
                 </ul>
                 <form class="d-flex" role="search">
 
+                  
+
                   <button type="submit" class="btn btn-primary btn-block" link to >Login</button> &nbsp;
 
                   <button type="submit" class="btn btn-primary btn-block">SignUp</button>
@@ -74,7 +79,7 @@ const Homepage = () => {
 
 
         <div>
-<img src="" style={{backgroundImage:`URL("https://png.pngtree.com/thumb_back/fh260/background/20210929/pngtree-abstract-background-glassmorphism-pastel-color-image_908574.png"))`,  minHeight:"100vh",backgroundSize:"cover",backgroundRepeat:"no-repeat"}}  alt="" />
+          <img src="Quizbackgraound.avif" alt="" />
         </div>
 
 

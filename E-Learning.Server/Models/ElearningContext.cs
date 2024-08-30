@@ -22,6 +22,8 @@ public partial class ElearningContext : DbContext
     public virtual DbSet<SetExam> SetExams { get; set; }
 
     public virtual DbSet<Student> Students { get; set; }
+    public object Student { get; internal set; }
+    public object student { get; internal set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
@@ -93,9 +95,9 @@ public partial class ElearningContext : DbContext
                 .HasColumnName("exam_name");
             entity.Property(e => e.StdScore).HasColumnName("std_score");
 
-            entity.HasOne(d => d.ExamFkStdNavigation).WithMany(p => p.SetExams)
-                .HasForeignKey(d => d.ExamFkStd)
-                .HasConstraintName("FK__setExam__exam_fk__5812160E");
+            //entity.HasOne(d => d.ExamFkStdNavigation).WithMany(p => p.SetExams)
+            //    .HasForeignKey(d => d.ExamFkStd)
+            //    .HasConstraintName("FK__setExam__exam_fk__5812160E");
         });
 
         modelBuilder.Entity<Student>(entity =>
